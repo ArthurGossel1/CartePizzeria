@@ -22,6 +22,6 @@ def test_carte_pizza_nb_pizzas_with_no_pizzas():
     c = CartePizzeria()
     assert c.nb_pizzas() == 0
 
-#slt
+#slt les anzes
 
 
